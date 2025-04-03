@@ -1,0 +1,7 @@
+Arquivo alterado
+<<<<<<< HEAD
+alterar
+=======
+
+modificando
+>>>>>>> bea972750de028d602e06613783e57f00f8924ea
