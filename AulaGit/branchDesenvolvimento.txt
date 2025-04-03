@@ -1,0 +1,2 @@
+A branch e desenvolvimento geralmente funciona em paralelo com a main, 
+utilizada para fazer a integração e testar, para não quebrar a main.
